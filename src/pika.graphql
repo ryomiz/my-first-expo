@@ -1,0 +1,6 @@
+query Pikachu {
+    pokemon(name: "pikachu") {
+        name
+        image
+    }
+}
